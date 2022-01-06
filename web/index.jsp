@@ -11,6 +11,7 @@
     <title>$Title$</title>
   </head>
   <body>
-  main
+  <h3>index.jsp</h3>
+  <a href="board/noticePro.do">게시판</a>
   </body>
 </html>
